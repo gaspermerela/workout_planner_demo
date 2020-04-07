@@ -20,7 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   url_launcher: ^3.0.3
-  path_provider: ^1.5.1
+  path_provider: ^1.6.4
   shared_preferences: ^0.4.3
   flutter_colorpicker: any
 
