@@ -1,0 +1,981 @@
+[
+  {
+    "exID": "0",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Behind Neck Press",
+    "diff": "3",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/BBBehindNeckPress"
+  },
+
+  {
+    "exID": "1",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Front Raise",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/BBFrontRaise"
+  },
+
+  {
+    "exID": "2",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Incline Front Raise",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/BBInclineFrontRaise"
+  },
+
+  {
+    "exID": "3",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Military Press",
+    "diff": "3",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/BBMilitaryPress"
+  },
+
+  {
+    "exID": "4",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Seated Military Press",
+    "diff": "3",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/BBSeatedMilitaryPress"
+  },
+
+  {
+    "exID": "5",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Seated Front Raise",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/CBSeatedFrontRaise"
+  },
+
+  {
+    "exID": "6",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Alternating Front Raise",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/CBAlternatingFrontRaise"
+  },
+
+  {
+    "exID": "7",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Alternating Seated Front Raise",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/CBAlternatingSeatedFrontRaise"
+  },
+
+  {
+    "exID": "8",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable One Arm Front Raise",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/CBFrontRaise"
+  },
+
+  {
+    "exID": "9",
+    "mg": "1.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable One Arm Front Raise (with rope)",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/DeltoidAnterior/CBFrontRaiseRope"
+  },
+
+  {
+    "exID": "79",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Close Grip Bench Press",
+    "diff": "3",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/BBCloseGripBenchPress"
+  },
+
+  {
+    "exID": "80",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Close Grip Incline Bench Press",
+    "diff": "3",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/BBCloseGripInclineBenchPress"
+  },
+
+  {
+    "exID": "81",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell JM Bench Press",
+    "diff": "2",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/BBJMPress"
+  },
+
+  {
+    "exID": "82",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Lying Triceps Extension",
+    "diff": "2",
+    "utility": "Basic",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/BBLyingTriExt"
+  },
+
+  {
+    "exID": "83",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Decline Triceps Extension",
+    "diff": "2",
+    "utility": "Basic",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/BBDeclineTriExt"
+  },
+
+  {
+    "exID": "84",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Incline Triceps Extension",
+    "diff": "2",
+    "utility": "Basic",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/BBInclineTriExt"
+  },
+
+  {
+    "exID": "85",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Lying Triceps Extension Skull Crusher",
+    "diff": "2",
+    "utility": "Basic",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/BBLyingTriExtSC"
+  },
+
+  {
+    "exID": "86",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Triceps Extension",
+    "diff": "2",
+    "utility": "both",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/BBTriExt"
+  },
+
+  {
+    "exID": "87",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Bent-over Triceps Extension",
+    "diff": "1",
+    "utility": "both",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/CBBentoverTriExt"
+  },
+
+  {
+    "exID": "88",
+    "mg": "2.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Bent-over Triceps Extension (with rope attachment)",
+    "diff": "1",
+    "utility": "both",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/Triceps/CBBentoverTriExtRope"
+  },
+
+  {
+    "exID": "138",
+    "mg": "3.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Reverse Curl",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/Brachioradialis/BBReverseCurl"
+  },
+
+  {
+    "exID": "139",
+    "mg": "3.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Reverse Preacher Curl",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/Brachioradialis/BBReversePreacherCurl"
+  },
+
+  {
+    "exID": "140",
+    "mg": "3.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Hammer Curl",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/Brachioradialis/CBHammerCurl"
+  },
+
+  {
+    "exID": "141",
+    "mg": "3.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Reverse Curl",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/Brachioradialis/CBReverseCurl"
+  },
+
+  {
+    "exID": "142",
+    "mg": "3.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Dumbbell",
+    "name": "Dumbbell Hammer Curl",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/Brachioradialis/DBHammerCurl"
+  },
+
+  {
+    "exID": "143",
+    "mg": "3.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Machine",
+    "name": "Machine Reverse Preacher Curl",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/Brachioradialis/LVReversePreacherCurl"
+  },
+
+  {
+    "exID": "144",
+    "mg": "3.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Wrist Curl",
+    "diff": "1",
+    "utility": "both",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/WristFlexors/BBWrtistCurl"
+  },
+
+  {
+    "exID": "145",
+    "mg": "3.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Wrist Curl",
+    "diff": "1",
+    "utility": "both",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/WristFlexors/CBWristCurl"
+  },
+
+  {
+    "exID": "146",
+    "mg": "3.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable One Arm Wrist Curl",
+    "diff": "1",
+    "utility": "both",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/WristFlexors/CBOneArmWristCurl"
+  },
+
+  {
+    "exID": "147",
+    "mg": "3.2",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Dumbbell",
+    "name": "Dumbbell Wrist Curl",
+    "diff": "1",
+    "utility": "both",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/WristFlexors/DBWristCurl"
+  },
+
+  {
+    "exID": "153",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Bent-over Row",
+    "diff": "3",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/BBBentOverRow"
+  },
+
+  {
+    "exID": "154",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Close Grip Bent-over Row",
+    "diff": "3",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/BBCloseGripBentOverRow"
+  },
+
+  {
+    "exID": "155",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Underhand Bent-over Row",
+    "diff": "3",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/BBUnderhandBentOverRow"
+  },
+
+  {
+    "exID": "156",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Kneeling Row",
+    "diff": "2",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/CBOneArmKneelingRow"
+  },
+
+  {
+    "exID": "157",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable One Arm Bent-over Row",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/CBOneArmBentoverRow"
+  },
+
+  {
+    "exID": "158",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable One Arm Seated Row",
+    "diff": "2",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/CBOneArmRow"
+  },
+
+  {
+    "exID": "159",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Twisting Seated Row",
+    "diff": "2",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/CBOneArmTwistingRow"
+  },
+
+  {
+    "exID": "160",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable One Arm Seated High Row",
+    "diff": "2",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/CBOneArmHighRow"
+  },
+
+  {
+    "exID": "161",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Twisting Seated High Row",
+    "diff": "2",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/CBOneArmTwistingHighRow"
+  },
+
+  {
+    "exID": "162",
+    "mg": "4.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable One Arm Straight Back Seated High Row",
+    "diff": "2",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/BackGeneral/CBOneArmStrBackHighRow"
+  },
+
+  {
+    "exID": "242",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Bench Press",
+    "diff": "3",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/BBBenchPress"
+  },
+
+  {
+    "exID": "243",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Bench Press (power lift)",
+    "diff": "3",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/BBBenchPressPowerLift"
+  },
+
+  {
+    "exID": "244",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Guillotine Bench Press",
+    "diff": "3",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/BBGuillotineBenchPress"
+  },
+
+  {
+    "exID": "245",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Decline Bench Press",
+    "diff": "2",
+    "utility": "both",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/BBDeclineBenchPress"
+  },
+
+  {
+    "exID": "246",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Lying Fly",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/CBLyingFly"
+  },
+
+  {
+    "exID": "247",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Seated Fly",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/CBSeatedFly"
+  },
+
+  {
+    "exID": "248",
+    "mg": "5.1",
+    "mg1": "5.3",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Standing Fly",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/CBStandingFly"
+  },
+
+  {
+    "exID": "249",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable One Arm Chest Press",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/CBOneArmChestPress"
+  },
+
+  {
+    "exID": "250",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Twisting Chest Press",
+    "diff": "1",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/CBTwistingChestPress"
+  },
+
+  {
+    "exID": "251",
+    "mg": "5.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Standing Decline Chest Press",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/PectoralSternal/CBStandingDeclineChestPress"
+  },
+
+  {
+    "exID": "298",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Push Crunch",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/BBPushCrunch"
+  },
+
+  {
+    "exID": "299",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Lying Crunch (on stability ball)",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/CBLyingCrunchStabilityBall"
+  },
+
+  {
+    "exID": "300",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Lying Leg-Hip Raise",
+    "diff": "2",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/CBLyingLegHipRaise"
+  },
+
+  {
+    "exID": "301",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Lying Leg-Hip Raise (on bench)",
+    "diff": "2",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/CBLyingLegHipRaiseBench"
+  },
+
+  {
+    "exID": "302",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Lying Straight Leg-Hip Raise",
+    "diff": "2",
+    "utility": "Basic",
+    "mechanics": "Compound",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/CBLyingStraightLegHipRaise"
+  },
+
+  {
+    "exID": "303",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Cable",
+    "name": "Cable Kneeling Crunch",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/CBKneelingCrunch"
+  },
+
+  {
+    "exID": "304",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Machine",
+    "name": "Machine Seated Leg Raise Crunch (plate loaded)",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/LVSeatedLegRaiseCrunchPL"
+  },
+
+  {
+    "exID": "305",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Machine",
+    "name": "Machine Seated Crunch (arm pad)",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/LVSeatedCrunchArmPad"
+  },
+
+  {
+    "exID": "306",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Machine",
+    "name": "Sled Leg Hip Raise (ab coaster)",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/SLLegHipRaise"
+  },
+
+  {
+    "exID": "307",
+    "mg": "6.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Body Weight",
+    "name": "Crunch",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/RectusAbdominis/BWCrunch"
+  },
+
+  {
+    "exID": "367",
+    "mg": "7.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Seated Good Morning",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBSeatedGoodMorning"
+  },
+
+  {
+    "exID": "368",
+    "mg": "7.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Single Leg Stiff Leg Deadlift",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Pull",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBSingleLegStiffLegDeadlift"
+  },
+
+  {
+    "exID": "369",
+    "mg": "7.1.1",
+    "mg1": "",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Hip Thrust",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Isolated",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBHipThrust"
+  },
+
+  {
+    "exID": "370",
+    "mg": "7.1.1",
+    "mg1": "7.2.1",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Lunge",
+    "diff": "3",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBLunge"
+  },
+
+  {
+    "exID": "371",
+    "mg": "7.1.1",
+    "mg1": "7.2.1",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Rear Lunge",
+    "diff": "3",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBRearLunge"
+  },
+
+  {
+    "exID": "372",
+    "mg": "7.1.1",
+    "mg1": "7.2.1",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Side Lunge",
+    "diff": "3",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBSideLunge"
+  },
+
+  {
+    "exID": "373",
+    "mg": "7.1.1",
+    "mg1": "7.2.1",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Walking Lunge",
+    "diff": "3",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBWalkingLunge"
+  },
+
+  {
+    "exID": "374",
+    "mg": "7.1.1",
+    "mg1": "7.2.1",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Single Leg Split Squat",
+    "diff": "2",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBSingleLegSplitSquat"
+  },
+
+  {
+    "exID": "375",
+    "mg": "7.1.1",
+    "mg1": "7.2.1",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Side Split Squat",
+    "diff": "3",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBSideSplitSquat"
+  },
+
+  {
+    "exID": "376",
+    "mg": "7.1.1",
+    "mg1": "7.2.1",
+    "mg2": "",
+    "eqType": "Barbell",
+    "name": "Barbell Split Squat",
+    "diff": "3",
+    "utility": "Auxiliary",
+    "mechanics": "Compound",
+    "force": "Push",
+    "link": "https://www.exrx.net/WeightExercises/GluteusMaximus/BBSplitSquat"
+  }
+]
