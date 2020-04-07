@@ -8,6 +8,8 @@ The special emphasis is on user-friendliness.
 This means that the application has to be easy to operate and understandable to all users, even ones that do not yet have sufficient knowledge to take advantage of all functionalities of the application.
 Because of the expertise needed to use the advanced parts, the application is inclined to help the user gather sufficient knowledge as easily as possible.
 
+Demo version includes only 10 exercises for each muscle group, without the functionality of displaying exercise execution.
+
 <p float="left">
 <img src="https://github.com/gaspermerela/advanced_workout_planner_demo/blob/master/screenshots/Main_Screen.jpg" width="220" height="417" />
 
