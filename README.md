@@ -1,7 +1,12 @@
 # Exercise Viewer (In progress)
 
 ## Introduction
-The idea of the Advanced Workout Planner project is to develop a highly customizable fitness workout application focused on presenting a large number of fitness exercises and delivering challenging, uncommon and diverse weight lifting workouts for recreational and professional use. 
+The initial idea of application Advanced Workout planner is to help me with my everyday struggle – workout planning.
+After some years of going to the gym and working out, it becomes really hard to plan diverse and challenging workouts, so I have turned on technology to solve the problem for me.
+The goal is to create an application that produces challenging, uncommon and most importantly diverse workouts every time and consequently help experienced and non-experienced people, who struggle to come up with unique bodybuilding workouts or have a lack of experience doing so, to achieve the best workout experience every day.
+The special emphasis is on user-friendliness.
+This means that the application has to be easy to operate and understandable to all users, even ones that do not yet have sufficient knowledge to take advantage of all functionalities of the application.
+Because of the expertise needed to use the advanced parts, the application is inclined to help the user gather sufficient knowledge as easily as possible.
 
 <p float="left">
 <img src="https://github.com/gaspermerela/advanced_workout_planner_demo/blob/master/screenshots/Main_Screen.jpg" width="220" height="417" />
