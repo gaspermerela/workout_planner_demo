@@ -9,7 +9,7 @@ This means that the application has to be easy to operate and understandable to 
 Because of the expertise needed to use the advanced parts, the application is inclined to help the user gather sufficient knowledge as easily as possible.
 
 Demo version includes only 10 exercises for each muscle group, without the functionality of displaying exercise execution.
-Below presented execution is only an example taken from exrx.com and will not be used in the final product.
+Below presented execution is only an example taken from www.ExRx.net and will not be used in the final product.
 
 <p float="left">
 <img src="https://github.com/gaspermerela/advanced_workout_planner_demo/blob/master/screenshots/Main_Screen.jpg" width="220" height="417" />
